@@ -12,6 +12,9 @@ What the fuck is git? Well its version control, you dumbass. When ur a kid you j
 * Fecth - Sync your shit with the server so you can see if some retard uploaded something
 * Sync - Scan local repo for changes so you can stage/commit them
 * Merge - This actually means merging of two branches
-* Branch - When you make a version of the main working files, edit them without fucking with the originals and if you are happy with your changes you can then merge the branch into another one (usually main one, which is sometimes called main,develop and similar)
+* Branch - When you make a version of the main working files, edit them without fucking with the originals and if you are happy with your changes you can then merge the branch into another one (usually main one, which is sometimes called main, develop and similar)
 * Rebase - idk, ask your mom, we dont do that here
 * Squash - Combine multiple commits to one
+
+## GUI vs CLI
+GUI most of the time is a better option, because you can easily see the branches. VS Code has decent integration, but if you need standalone GUI, you should try Git Ahead. Git Ahead is like GitKraken but free and crossplatform.
