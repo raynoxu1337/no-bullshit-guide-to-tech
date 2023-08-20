@@ -3,6 +3,7 @@
 Tech sucks and tutorials online also suck. So me and hommies are gonna make no-bullshit guide to tech, so you don't have to waste time where we did.
 
 
+![](assets/20230821_020843_dragon.png)
 
 ## Must read intro
 
@@ -19,7 +20,7 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 * What the fuck is BIOS/UEFI
 * What the fuck is a bootloader
 * What the fuck is an executable
-* [Assembly](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Assembly/MAIN.md)
+* [Assembly](Assembly/MAIN.md)
 * What the fuck is linker
 * What the fuck is a compliler
 * What the fuck is a file/filesystem
