@@ -53,7 +53,8 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 * [C++](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Cpp/MAIN.md)
   * [C++ GUI](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Cpp/guis.md)
 * [C#](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/CSharp/MAIN.md)
-* Python/Octave
+* Python
+* Matlab/Octave
 * Javascript/Typescript
 
 ### Tools:
@@ -69,4 +70,4 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 
 ### Shells/Terminals
 
-### Ricing:
+### Ricing
