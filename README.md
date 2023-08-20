@@ -13,7 +13,7 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 
 ### The main lore:
 
-* Intro
+* [Intro](Intro/MAIN.md)
 * What the fuck is a computer
 * What the fuck is memory
 * What the fuck is CPU
@@ -54,18 +54,18 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 ### Languages:
 
 * C
-* [C++](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Cpp/MAIN.md)
+* [C++](Cpp/MAIN.md)
 
-  * [C++ Compilers](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Cpp/compilers.md)
-  * [C++ GUI](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Cpp/guis.md)
-* [C#](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/CSharp/MAIN.md)
+  * [C++ Compilers](Cpp/compilers.md)
+  * [C++ GUI](Cpp/guis.md)
+* [C#](CSharp/MAIN.md)
 * Python
 * Matlab/Octave
 * Javascript/Typescript
 
 ### Tools:
 
-* [Git tutorial](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/GIT/MAIN.md)
+* [Git tutorial](GIT/MAIN.md)
 * Docker Tutorial
 
 ### Actual sorcery
