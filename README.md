@@ -1,10 +1,9 @@
-#  No Bullshit Guide To Tech ☠
-
-
+# No Bullshit Guide To Tech ☠
 
 Tech sucks and tutorials online also suck. So me and hommies are gonna make no-bullshit guide to tech, so you don't have to waste time where we did.
 
 ## Must read intro
+
 To make sure we all are on the same page when it comes to basic concepts, the main intro should be read. My philosophy is that it is always best to know things as deeply as you can in tech, just not too deep to not get obsessed. If you know what components the system is made of you will understand why some practices are stupid and how to solve any problem that should arise.
 
 For this we should start from the very... VERY beginning, so to say from Adam and Eve.
@@ -25,6 +24,7 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 ## Index of un-bullshited knowledge
 
 ### Operating systems
+
 * Unix
 * Linux
 * Windows
@@ -48,13 +48,16 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 * HTTP
 
 ### Languages:
+
 * C
-* C++
-* [CSharp Intro](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/CSharp/MAIN.md)
+* [C++](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Cpp/MAIN.md)
+  * [C++ GUI]((https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/Cpp/guis.md))
+* [C#](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/CSharp/MAIN.md)
 * Python/Octave
 * Javascript/Typescript
 
 ### Tools:
+
 * [Git tutorial](https://github.com/raynoxu1337/no-bullshit-guide-to-tech/blob/main/GIT/MAIN.md)
 * Docker Tutorial
 
