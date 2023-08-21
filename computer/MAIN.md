@@ -1,4 +1,3 @@
 ## What is a computer, really?
 I would say the normal consesus on what a computer is, is defined by Alan Turing, called a [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine), but that's a little too abstract to be useful in reality.
 More realistic model is proposed by Von Neumann (Yeah the same physics bro) and is called [Von Neumann Architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture).
-![](https://en.wikipedia.org/wiki/Von_Neumann_architecture#/media/File:Von_Neumann_Architecture.svg)
