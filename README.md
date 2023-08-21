@@ -7,14 +7,14 @@ Tech sucks and tutorials online also suck. So me and hommies are gonna make no-b
 
 ## Must read intro
 
-To make sure we all are on the same page when it comes to basic concepts, the main intro should be read. My philosophy is that it is always best to know things as deeply as you can in tech, just not too deep to not get obsessed. If you know what components the system is made of you will understand why some practices are stupid and how to solve any problem that should arise.
+To make sure we all are on the same page when it comes to basic concepts, the main lore should be read. My philosophy is that it is always best to know things as deeply as you can in tech, just not too deep to not get obsessed. If you know what components the system is made of you will understand why some practices are stupid and how to solve any problem that should arise. Technology is magis and you should know where all the spells are coming from.
 
 For this we should start from the very... VERY beginning, so to say from Adam and Eve.
 
 ### The main lore:
 
 * [Intro](Intro/MAIN.md)
-* What the fuck is a computer
+* [What's a computer?](computer/MAIN.md)
 * What the fuck is memory
 * What the fuck is CPU
 * What the fuck is BIOS/UEFI
@@ -55,7 +55,6 @@ For this we should start from the very... VERY beginning, so to say from Adam an
 
 * C
 * [C++](Cpp/MAIN.md)
-
   * [C++ Compilers](Cpp/compilers.md)
   * [C++ GUI](Cpp/guis.md)
 * [C#](CSharp/MAIN.md)
